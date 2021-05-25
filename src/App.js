@@ -1,8 +1,9 @@
 import React from 'react';
+import Jumbotron from './components/jumbotron/index';
 
 function App() {
   return (
-    <p>Hello</p>
+    <Jumbotron></Jumbotron>
   );
 }
 
